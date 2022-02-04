@@ -42,7 +42,7 @@ Meu hobby é Praia e video games.
 - [x] JUnit
 - [x] MySQL
 - [x] Eclipse | VSCode
-- [x] Jira 
+- [x] Jira | Trello
 - [x] Scrum
 - [x] Linux | Windows
 
