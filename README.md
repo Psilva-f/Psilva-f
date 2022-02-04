@@ -37,11 +37,11 @@ Meu hobby é Praia e video games.
 - [x] C# 
 - [x] Javascript
 - [x] HTML | CSS
-- [x] Seleniun Webdriver
+- [x] Selenium Webdriver
 - [x] Cucumber
 - [x] JUnit
 - [x] MySQL
-- [x] Visual Studio | VSCode | XCode 
+- [x] Eclipse | VSCode
 - [x] Jira 
 - [x] Scrum
 - [x] Linux | Windows
