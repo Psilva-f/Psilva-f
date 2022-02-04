@@ -37,6 +37,9 @@ Meu hobby é Praia e video games.
 - [x] C# 
 - [x] Javascript
 - [x] HTML | CSS
+- [x] Seleniun Webdriver
+- [x] Cucumber
+- [x] JUnit
 - [x] MySQL
 - [x] Visual Studio | VSCode | XCode 
 - [x] Jira 
