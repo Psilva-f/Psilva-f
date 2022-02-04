@@ -27,7 +27,7 @@ Gosto de novas tecnologias, busco sempre conhecer tendências e novas tecnologia
 Meu hobby é Praia e video games.
 
 ### Formações
-- 🎓 Análise e Desenvolvimento de Sistemas na Estácio de Sá (Cursando)
+- 🎓 Análise e Desenvolvimento de Sistemas | Universidade Estácio de Sá (Cursando)
 
 ## Certificações:
 - [Scrum Foundation Professional Certificate - CertiProf](https://www.credly.com/badges/63bdff39-e44f-499d-8d3f-9aa3e1561d5e?source=linked_in_profile)
