@@ -1,16 +1,46 @@
-### Hi there 👋
+# Patricia Silva fonseca 👨‍💻
 
-<!--
-**Psilva-f/Psilva-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Psilva-f)](https://github.com/Psilva-f)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricia-silva-fonseca/)](https://www.linkedin.com/in/patricia-silva-fonseca/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patricia.fonseca.sf@gmail.com)](mailto:patricia.fonseca.sf@gmail.com)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="http://views.whatilearened.today/views/github/Psilva-f/views.svg" />
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-MySQL-brightgreen" />
+  <img src="https://img.shields.io/badge/Back--end-Java-green" />
+  <img src="https://img.shields.io/badge/Teste-Java-green" />
+  <a href="https://github.com/Psilva-f/">
+    <img src="https://img.shields.io/github/followers/Psilva-f?color=%234CC61E&label=GitHub%20Followers%20%3A" />
+  </a>
+</p>
+
+## Linguagens e Ferramentas:
+[![Psilva-f GitHub stats](https://github-readme-stats.vercel.app/api?username=Psilva-f&show_icons=true&theme=vue-dark)](https://github.com/Psilva-f)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psilva-f&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/Psilva-f)
+
+## Olá 👋
+
+Sou desenvolvedora Back-end Java, apaixonado por tecnologia.
+Gosto de novas tecnologias, busco sempre conhecer tendências e novas tecnologias no mercado. 
+Meu hobby é Praia e video games.
+
+### Formações
+- 🎓 Análise e Desenvolvimento de Sistemas na Estácio de Sá (Cursando)
+
+## Certificações:
+- [Scrum Foundation Professional Certificate - CertiProf](https://www.credly.com/badges/63bdff39-e44f-499d-8d3f-9aa3e1561d5e?source=linked_in_profile)
+
+## Principais Habilidades
+- [x] Java
+- [x] C# 
+- [x] Javascript
+- [x] HTML | CSS
+- [x] MySQL
+- [x] Visual Studio | VSCode | XCode 
+- [x] Jira 
+- [x] Scrum
+- [x] Linux | Windows
+
+---
