@@ -18,7 +18,7 @@
 
 ## Linguagens e Ferramentas:
 [![Psilva-f GitHub stats](https://github-readme-stats.vercel.app/api?username=Psilva-f&show_icons=true&theme=vue-dark)](https://github.com/Psilva-f)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psilva-f&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/Psilva-f)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psilva-f&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/Psilva-f)-->
 
 ## Olá 👋
 
