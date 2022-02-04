@@ -44,6 +44,6 @@ Meu hobby é Praia e video games.
 - [x] Eclipse | VSCode
 - [x] Jira | Trello
 - [x] Scrum
-- [x] Linux | Windows
+- [x] Linux | Windows | MacOS
 
 ---
