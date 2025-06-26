@@ -10,8 +10,8 @@
   <img src="http://views.whatilearened.today/views/github/Psilva-f/views.svg" />
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-MySQL-brightgreen" />
   <img src="https://img.shields.io/badge/Back--end-Java-green" />
-  <img src="https://img.shields.io/badge/Teste-Java-green" />
-  <img src="https://img.shields.io/badge/Teste-Salesforce-green" />
+  <img src="https://img.shields.io/badge/Back--end-Java-green" />
+  <img src="https://img.shields.io/badge/Dev-Salesforce-green" />
   <a href="https://github.com/Psilva-f/">
     <img src="https://img.shields.io/github/followers/Psilva-f?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
