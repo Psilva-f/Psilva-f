@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-MySQL-brightgreen" />
   <img src="https://img.shields.io/badge/Back--end-Java-green" />
   <img src="https://img.shields.io/badge/Teste-Java-green" />
+  <img src="https://img.shields.io/badge/Teste-Salesforce-green" />
   <a href="https://github.com/Psilva-f/">
     <img src="https://img.shields.io/github/followers/Psilva-f?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
@@ -22,7 +23,7 @@
 
 ## Olá 👋
 
-Sou desenvolvedora Back-end Java, apaixonado por tecnologia.
+Sou desenvolvedora Salesforce/Vlocity, apaixonado por tecnologia.
 Gosto de novas tecnologias, busco sempre conhecer tendências e novas tecnologias no mercado. 
 Meu hobby é Praia e video games.
 
@@ -34,8 +35,9 @@ Meu hobby é Praia e video games.
 
 ## Principais Habilidades
 - [x] Salesforce
+- [x] Vlocity
+- [x] CPQ
 - [x] Java
-- [x] C# 
 - [x] Javascript
 - [x] HTML | CSS
 - [x] Selenium Webdriver
@@ -45,6 +47,5 @@ Meu hobby é Praia e video games.
 - [x] Eclipse | VSCode
 - [x] Jira | Trello
 - [x] Scrum
-- [x] Linux | Windows | MacOS
 
 ---
